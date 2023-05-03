@@ -37,4 +37,4 @@
 
 ## 🎨 Inspiração
 
-Projeto construído a partir do layout proposto no desafio [#BoraCodar13](https://boracodar.dev/) realizado pela [Rocketseat](https://rocketseat.com.br).
+Projeto desenvolvido a partir do layout proposto no desafio [#BoraCodar13](https://boracodar.dev/) realizado pela [Rocketseat](https://rocketseat.com.br).
