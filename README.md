@@ -33,7 +33,7 @@
 ## 📌 Resultado do Projeto:
 <br>
 
-![preview](./.github/preview.png)
+![preview](./assets/preview.png)
 
 ## 🎨 Inspiração
 
