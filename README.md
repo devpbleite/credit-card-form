@@ -19,7 +19,7 @@
 #   
 
 
-## 📱 Setup do Projeto:
+## 🧰 Setup do Projeto:
 
 
 - HTML
