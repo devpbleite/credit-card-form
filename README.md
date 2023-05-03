@@ -33,6 +33,7 @@
 ## 📌 Resultado do Projeto:
 <br>
 
+![preview](./.github/preview.png)
 
 ## 🎨 Inspiração
 
